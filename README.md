@@ -1,12 +1,26 @@
 # Awesome Montreal
 
-A curated list of awesome things to do in Montreal
+A curated list of awesome things to eat, drink, and do in Montreal
 
-## Food
+## Breakfast & coffee
 
 * L'avenue
+* Café Névé
+
+## Others
+
+* Bilboquet
+
+## Lunch & diner
+
 * La banquise
 * Poutineville
+* Ma Poule Mouillée
+* L'arepera du plateau
+* Le santropol
+* Les belles soeurs
+* Bagels Saint Viateur
+* Five Guys
 
 ## Drinks
 
@@ -16,3 +30,8 @@ A curated list of awesome things to do in Montreal
 * Le Saint Sacrement
 * Les foufounes électriques
 * Ye olde orchard
+* Le lab
+
+## Activités
+
+* Rage Montreal
