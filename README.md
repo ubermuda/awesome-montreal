@@ -45,7 +45,8 @@ A curated list of awesome things to eat, drink, and do in Montreal
 * [Le lab](http://barlelab.com/) (cocktails)
 * [L'île noire](http://www.ilenoire.com/) (bons alcools)
 * [Le Fitzroy](http://www.fitzroymtl.com/) (bar, billard)
-* [Big in japan](http://biginjapanbar.ca/) (cocktails, cosy)
+* [Big in japan](http://biginjapanbar.ca/) (speakeasy)
+* [Le 4e Mur](http://le4emur.com/) (speakeasy)
 
 ## Activités
 
