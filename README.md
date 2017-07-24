@@ -26,7 +26,7 @@ A curated list of awesome things to eat, drink, and do in Montreal
 ## Drinks
 
 * [Dieu du ciel !](http://dieuduciel.com/en/) (bières)
-* [Le Saint Bock]( (bières)
+* [Le Saint Bock](http://www.saintbock.com/) (bières)
 * [Le Saint Elizabeth](http://www.saintbock.com/) (pub)
 * [Le Saint Sacrement](http://www.saint-sacrement.com/) (bières)
 * [Les foufounes électriques](https://www.foufouneselectriques.com/) (bar, concerts)
