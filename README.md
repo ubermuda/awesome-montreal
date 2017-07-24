@@ -32,6 +32,7 @@ A curated list of awesome things to eat, drink, and do in Montreal
 * [Les foufounes électriques](https://www.foufouneselectriques.com/) (bar, concerts)
 * [Ye olde orchard](http://yeoldeorchard.com/) (pub écossais)
 * [Le lab](http://barlelab.com/) (cocktails)
+* [L'île noire](http://www.ilenoire.com/) (bons alcools)
 
 ## Activités
 
