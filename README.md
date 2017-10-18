@@ -51,3 +51,4 @@ A curated list of awesome things to eat, drink, and do in Montreal
 ## Activités
 
 * [Rage Montreal](https://www.ragemontreal.com/en/) (lancé de haches)
+* [Le Bordel](https://www.lebordel.ca/) (comédie club)
