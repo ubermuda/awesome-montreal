@@ -52,6 +52,7 @@ A curated collection of tips, apps, things to eat, drink, and do in Montreal
 * [Le Comptoir 21](http://www.comptoir21.com/) (fish & chips)
 * [Magpie](http://www.pizzeriamagpie.com/) (pizzeria)
 * [Byblos](http://bybloslepetitcafe.ca/) (oriental)
+* [Mañana](https://www.yelp.ca/biz/ma%C3%B1ana-montr%C3%A9al-2) (mexicain)
 
 ## Drinks
 
