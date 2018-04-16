@@ -1,13 +1,27 @@
 # Awesome Montreal
 
-A curated list of awesome things to eat, drink, and do in Montreal
+A curated collection of tips, apps, things to eat, drink, and do in Montreal
+
+## Apps
+
+* [Transit](https://transitapp.com/) (transports)
+
+## Places to visit
+
+* Le vieux Montreal
+* Le marché Jean Talon
+* Le marché Atwater
+* Le canal Lachine
+* Le jardin botanique
+* La tour de Montreal
+* Le chalet du Mont-Royal
 
 ## Others
 
 * [Bilboquet](http://www.bilboquet.ca/) (glacier)
 * [La réserve du comptoir](http://lareserveducomptoir.ca/) (boucherie, charcuterie)
 * [Randolph](https://www.randolph.ca/) (bar à jeux)
-* [Le Colonel Moutarde](http://colonelmoutarde.ca/)
+* [Le Colonel Moutarde](http://colonelmoutarde.ca/) (restaurant à jeux)
 
 ## Food
 
@@ -33,6 +47,11 @@ A curated list of awesome things to eat, drink, and do in Montreal
 * [Kinoya Izakaya](http://kinoya.ca/en/) (izakaya)
 * [Tampopo](http://tampopo.ca/en) (asiatique)
 * [L'gros luxe](http://www.lgrosluxe.com/) (brunch, vegan)
+* [Yokato Yokabai](http://www.yoka.ca/) (ramens)
+* [Bishop & Bagg](https://www.bishopandbagg.com/) (pub)
+* [Le Comptoir 21](http://www.comptoir21.com/) (fish & chips)
+* [Magpie](http://www.pizzeriamagpie.com/) (pizzeria)
+* [Byblos](http://bybloslepetitcafe.ca/) (oriental)
 
 ## Drinks
 
@@ -47,7 +66,18 @@ A curated list of awesome things to eat, drink, and do in Montreal
 * [Le Fitzroy](http://www.fitzroymtl.com/) (bar, billard)
 * [Big in japan](http://biginjapanbar.ca/) (speakeasy)
 * [Le 4e Mur](http://le4emur.com/) (speakeasy)
+* [Le Terminal](http://barterminal.com/) (bières)
+* [Le West Shefford](https://www.facebook.com/pubwestshefford/) (micro-brasserie)
+* [Pit Caribou](http://www.pitcaribou.com/montreal/) (micro-brasserie)
+* [Le Siboire](http://siboire.ca/) (micro-brasserie)
+* [Darling](https://www.yelp.ca/biz/darling-montr%C3%A9al) (bar)
+
+## Café
+
+* [Café Olimpico](http://www.cafeolimpico.com/) (café)
 
 ## Activités
 
 * [Rage Montreal](https://www.ragemontreal.com/en/) (lancé de haches)
+
+
